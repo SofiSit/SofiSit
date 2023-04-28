@@ -1,12 +1,11 @@
-
-
-
-<h1 align="center">Hi 👋, I'm Sofia ✨</h1>
+<h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">A passionate full Stack developer</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofisitjar" alt="sofisitjar" /></a> </p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -16,6 +15,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofisitjar&show_icons=true&locale=en&layout=compact" alt="sofisitjar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofisitjar&show_icons=true&locale=en" alt="sofisitjar" /></p>
+
+
 
 
 
