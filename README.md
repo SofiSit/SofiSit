@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sofia ✨</h1>[image](https://user-images.githubusercontent.com/94472523/166454639-da6aceea-b6a7-4946-9260-72c2c2d275d4.png)
+<h1 align="center">Hi 👋, I'm Sofia ✨</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
