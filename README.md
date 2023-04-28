@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
