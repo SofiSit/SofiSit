@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofisitjar" alt="sofisitjar" /></a> </p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
-- <img src="https://i.pinimg.com/474x/67/2d/25/672d2597718debfff7b7827b6e3ff5e2.jpg" width="40" height="40"/>
+- <img src="https://i.pinimg.com/474x/67/2d/25/672d2597718debfff7b7827b6e3ff5e2.jpg" width="80" height="80"/>
 
 
 <p align="left">
