@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">A passionate Full stack developer with front end orientation
 
-, im always <img src="https://i.pinimg.com/474x/67/2d/25/672d2597718debfff7b7827b6e3ff5e2.jpg" width="140" height="160"/></h3>
+ <img src="https://i.pinimg.com/474x/67/2d/25/672d2597718debfff7b7827b6e3ff5e2.jpg" width="140" height="160"/></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofisitjar" alt="sofisitjar" /></a> </p>
 
 - 🌱 I’m currently learning **everything I need to filling my gaps to become a better programmer.**
-- 
+
 
 
 <p align="left">
