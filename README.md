@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate Full stack developer with Full Stack orientation
+<h3 align="center">A passionate Full stack developer 
 
  <img src="https://i.pinimg.com/474x/67/2d/25/672d2597718debfff7b7827b6e3ff5e2.jpg" width="180" height="200"/></h3>
 
